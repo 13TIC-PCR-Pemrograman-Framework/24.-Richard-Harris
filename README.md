@@ -1,2 +1,2 @@
 # 24.-Richard-Harris
-Judul Project Sistem Manajemen Penjualan Toko
+Sistem Manajemen Penjualan Toko
